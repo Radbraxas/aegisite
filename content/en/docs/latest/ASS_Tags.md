@@ -986,13 +986,13 @@ from the ASS specs):
 - Square:
 
   ```ass
-  {\\p1}m 0 0 l 100 0 100 100 0 100{\\p0}
+  {\p1}m 0 0 l 100 0 100 100 0 100{\p0}
   ```
 
 - Rounded square:
 
   ```ass
-  {\\p1}m 0 0 s 100 0 100 100 0 100 c{\\p0}
+  {\p1}m 0 0 s 100 0 100 100 0 100 c{\p0}
   ```
 
   (c equals to "p 0 0 100 0 100 100" in this case)
